@@ -1,0 +1,12 @@
+title: InkFritas 2019
+email: your-email@example.com
+description: Arte do Inktober 2019 feitas pelos membros do grupo Batatinha quando nasce
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
